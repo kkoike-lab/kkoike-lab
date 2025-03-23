@@ -1,5 +1,5 @@
 # 👋 Hello there. 
-####（オビ＝ワン風に）
+（オビ＝ワン風に）
 
 ![Image](https://github.com/user-attachments/assets/9b522141-9e2e-4920-b4ac-38ba1d4d543f)
 <!--
