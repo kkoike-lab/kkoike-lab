@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 ![Image](https://github.com/user-attachments/assets/9b522141-9e2e-4920-b4ac-38ba1d4d543f)
 <!--
 **kkoike-lab/kkoike-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
